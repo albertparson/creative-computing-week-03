@@ -8,13 +8,10 @@ body{
   line-height: 34px;
   font-weight: normal;
   font-family: 'Roboto', sans-serif;
+ 
 }
 
-h1 {
-  text-transform: uppercase;
-  font-weight: normal;
-  margin-bottom: 80px;
-}
+
 
 h2 {
   margin-bottom: 100px;
